@@ -14,6 +14,7 @@ My Toolbox 💻
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 
-[![Gitub](https://github-readme-stats.vercel.app/api/top-langs/?username=ageorge96&layout=pie&theme=transparent)](https://github.com/ageorge96/github-readme-stats)
-
+<p align='center'>
+  [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageorge96&layout=pie&theme=transparent)](https://github.com/ageorge96/github-readme-stats)
+</p>
 
