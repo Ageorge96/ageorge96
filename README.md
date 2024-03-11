@@ -15,6 +15,6 @@ My Toolbox 💻
 
 
 <p align='center'>
-  [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageorge96&layout=pie&theme=transparent)](https://github.com/ageorge96/github-readme-stats)
+  <img src='[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageorge96&layout=pie&theme=transparent)](https://github.com/ageorge96/github-readme-stats)'/>
 </p>
 
